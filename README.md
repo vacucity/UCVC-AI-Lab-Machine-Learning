@@ -1,5 +1,6 @@
 
-<img width="1408" height="768" alt="Gemini_Generated_Image_5u8e0r5u8e0r5u8e" src="https://github.com/user-attachments/assets/dbd9145c-5b29-410f-b0bb-fe3e7b03195e" />
+<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/b4452ad1-d8eb-4090-b4bc-1f32ea2da88a" />
+
 
 # Introduction
 This tutorial covers content from both the CSS299 Stanford Machine Learning course and the machine learning section of the book Machine Learning in Action. All algorithms are accompanied by corresponding practical examples and mathematical derivations (currently being updated). You can follow the learning sequence by lecture number (Lecture0-Lecture16). The update is expected to be completed in about two weeks.
